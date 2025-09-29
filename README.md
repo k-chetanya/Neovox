@@ -1,35 +1,35 @@
-🛍️ Simple E-commerce Frontend
+# 🛍️ Simple E-commerce Frontend
 
-This is a simple e-commerce website frontend built using HTML, CSS, and JavaScript. It features a modern layout and smooth CSS animations, currently showcasing electronic products like pods and gadgets.
+This is a **simple e-commerce website frontend** built using **HTML**, **CSS**, and **JavaScript**. It features a modern layout with smooth **CSS animations**, currently showcasing electronic products like **pods** and other gadgets.
 
-The project is structured to provide a clean user experience and will later be extended with backend functionality.
+The site is designed to be **clean**, **responsive**, and **visually appealing**. This is the **frontend-only** version for now — backend integration is **coming soon**!
 
-🚀 Features
+---
 
-Responsive layout for desktop and mobile
+## 🚀 Features
 
-Animated UI using CSS transitions and effects
+- Responsive layout (mobile & desktop)
+- Smooth UI animations using CSS
+- Interactive product cards with hover effects
+- Basic cart UI (static, for now)
 
-Product listing with hover effects
+---
 
-Basic cart UI (placeholder for future functionality)
+## 🧱 Tech Stack
 
-🧱 Tech Stack
+- **HTML5** – Semantic and accessible structure
+- **CSS3** – Custom styling, layout, and animations
+- **JavaScript (Vanilla)** – DOM manipulation & interactivity
 
-HTML5 – Semantic structure
+---
 
-CSS3 – Responsive design & animations
+## 🔧 Upcoming Features
 
-JavaScript (Vanilla) – UI interactivity
+Backend features (coming soon):
 
-🔧 Upcoming Features
+- ✅ User authentication
+- ✅ Dynamic cart system
+- ✅ Product database (CRUD operations)
+- ✅ Checkout and order summary page
 
-Backend integration coming soon:
-
-User authentication
-
-Shopping cart functionality
-
-Product database (CRUD operations)
-
-Checkout system
+---
